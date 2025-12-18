@@ -1,6 +1,6 @@
 ## vivado_8_bit_alu
-## REG NUM :
-## NAME :
+## REG NUM :25014334
+## NAME :Santhiya B
 ## EXPERIMENT – 3  8-BIT ALU IMPLEMENTATION USING FPGA
 ## Title  
 Design and Implementation of an 8-bit ALU on Spartan-7 Boolean FPGA Board Using Vivado
@@ -189,6 +189,7 @@ set_property -dict {PACKAGE_PIN H2 IOSTANDARD LVCMOS33} [get_ports {btn[2]}]
 set_property -dict {PACKAGE_PIN J1 IOSTANDARD LVCMOS33} [get_ports {btn[3]}]
 ```
 ## OUTPUT
+<img width="975" height="580" alt="image" src="https://github.com/user-attachments/assets/f03fdce7-6a50-4097-b84d-14e5e57ef579" />
 
 ## Result
 The ALU was designed, simulated, synthesized, and implemented successfully on the Boolean FPGA board.
